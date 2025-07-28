@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "documents": [
+      "Adobe brief doc.pdf",
+      "batch 18 IPD.3.pdf"
+    ],
+    "persona": {
+      "role": "PhD Researcher in Computational Biology",
+      "expertise": "Graph Neural Networks, Drug Discovery",
+      "focus_areas": [
+        "methodologies",
+        "datasets",
+        "performance benchmarks"
+      ]
+    },
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks.",
+    "timestamp": "2025-07-23T14:07:43"
+  },
+  "extracted_sections": [
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 40,
+      "section_title": "algorithmic decision making methods for fair credit scoring 41 regulatory compli...",
+      "importance_rank": 1
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 39,
+      "section_title": "algorithmic decision making methods for fair credit scoring 40 chapter-vii concl...",
+      "importance_rank": 2
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 17,
+      "section_title": "algorithmic decision making methods for fair credit scoring 18 categories of mac...",
+      "importance_rank": 3
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 20,
+      "section_title": "algorithmic decision making methods for fair credit scoring 21 step 1 – understa...",
+      "importance_rank": 4
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 24,
+      "section_title": "algorithmic decision making methods for fair credit scoring 25 modules used in p...",
+      "importance_rank": 5
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 25,
+      "section_title": "algorithmic decision making methods for fair credit scoring 26 matplotlib matplo...",
+      "importance_rank": 6
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 22,
+      "section_title": "algorithmic decision making methods for fair credit scoring 23 • semi-supervised...",
+      "importance_rank": 7
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 29,
+      "section_title": "algorithmic decision making methods for fair credit scoring 30 • scope: identify...",
+      "importance_rank": 8
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 41,
+      "section_title": "algorithmic decision making methods for fair credit scoring 42 chapter-viii refe...",
+      "importance_rank": 9
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 6,
+      "section_title": "algorithmic decision making methods for fair credit scoring department of cse, m...",
+      "importance_rank": 10
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 21,
+      "section_title": "algorithmic decision making methods for fair credit scoring 22 step 2 – learn va...",
+      "importance_rank": 11
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 23,
+      "section_title": "algorithmic decision making methods for fair credit scoring 24 3. interpretation...",
+      "importance_rank": 12
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 28,
+      "section_title": "algorithmic decision making methods for fair credit scoring 29 b. user feedback ...",
+      "importance_rank": 13
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 19,
+      "section_title": "algorithmic decision making methods for fair credit scoring 20 applications of m...",
+      "importance_rank": 14
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 16,
+      "section_title": "algorithmic decision making methods for fair credit scoring 17 3. python is for ...",
+      "importance_rank": 15
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 9,
+      "section_title": "algorithmic decision making methods for fair credit scoring 10 2.2. proposed sys...",
+      "importance_rank": 16
+    },
+    {
+      "document": "Adobe brief doc.pdf",
+      "page": 6,
+      "section_title": "round 1b: persona-driven document intelligence theme: “connect what matters — fo...",
+      "importance_rank": 17
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 15,
+      "section_title": "algorithmic decision making methods for fair credit scoring 16 2. extensible as ...",
+      "importance_rank": 18
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 30,
+      "section_title": "algorithmic decision making methods for fair credit scoring 31 6. explainability...",
+      "importance_rank": 19
+    },
+    {
+      "document": "batch 18 IPD.3.pdf",
+      "page": 27,
+      "section_title": "algorithmic decision making methods for fair credit scoring 28 3. performance te...",
+      "importance_rank": 20
+    }
+  ]
+}

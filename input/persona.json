@@ -1,0 +1,8 @@
+{
+  "persona": {
+    "role": "PhD Researcher in Computational Biology",
+    "expertise": "Graph Neural Networks, Drug Discovery",
+    "focus_areas": ["methodologies", "datasets", "performance benchmarks"]
+  },
+  "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks."
+}
